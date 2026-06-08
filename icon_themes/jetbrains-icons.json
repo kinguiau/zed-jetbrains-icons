@@ -59,6 +59,7 @@
         "makefile": "makefile",
         "Makefile": "makefile",
         "mk": "makefile",
+        "nim": "nim",
         "groovy": "groovy",
         "prettierrc": "json",
         "deno.json": "deno",
@@ -109,6 +110,9 @@
         },
         "nextjs": {
           "path": "./icons/dark/nextjs.svg"
+        },
+        "nim": {
+          "path": "./icons/dark/nim.svg"
         },
         "handlebars": {
           "path": "./icons/dark/handlebars.svg"
@@ -492,6 +496,7 @@
         "yaml": "yaml",
         "xhtml": "xhtml",
         "xml": "xml",
+        "nim": "nim",
         "yarn.lock": "yarn",
         "xsd": "xsd",
         "jsp": "jsp",
